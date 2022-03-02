@@ -27,4 +27,4 @@ optimal knowledge categorization methods for digital information using
 open-source technologies.
 
 * Tools of the Trade
-Please see our [[id:a3c6b18c-70b3-4ef0-b5b4-a9b243393091][documentation]] folder for our current outline of s
+Please see our [[file:docs/README.org][documentation]] folder for our current outline of tools.
