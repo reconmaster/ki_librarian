@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       a3c6b18c-70b3-4ef0-b5b4-a9b243393091
+:END:
 #+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
 #+OPTIONS: author:t broken-links:nil c:nil creator:nil
 #+OPTIONS: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:nil
@@ -5,7 +8,9 @@
 #+OPTIONS: timestamp:t title:t toc:t todo:t |:t
 #+TITLE: documentation
 #+AUTHOR: Andrew M Davis, PhD
-#+EMAIL: amdavis@posteo.net
+#+EMAIL: @reconmaster:matrix.org
+#+AUTHOR: Jonathan Zelaya
+#+EMAIL: @ocelomeh:matrix.org
 #+LANGUAGE: en
 #+SELECT_TAGS: export
 #+EXCLUDE_TAGS: noexport
@@ -13,7 +18,16 @@
 #+FILETAGS: 気, ki, doc
 Objective: [[https://en.wikipedia.org/wiki/Documentation][documentation]]
 * Introduction
-Documentation is critical to ensure our research methodology is
-completely transparent and understandable to those that consume it.
-Without a clear explanation of our procedures, the [[../results/README.org][results]] themselves
-are meaningless.
+Here we would like to document the variety of tools that allow
+information cataloging on the cutting edge of open-source software.
+* Tools
+** General
+*** [[https://tellico-project.org/][Tellico]]
+Cataloging software
+** Books
+*** [[https://calibre-ebook.com/][Calibre]]
+Excellent e-book managment software.
+*** [[https://okular.kde.org/][Okular]]
+Universal document viwer. Great for reading and collaborating via pdfs.
+** Video
+*** [[https://www.downloadhelper.net/][Video DownloadHelper]]

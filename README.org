@@ -5,7 +5,9 @@
 #+OPTIONS: timestamp:t title:t toc:t todo:t |:t
 #+TITLE: librarian
 #+AUTHOR: Andrew M Davis, PhD
-#+EMAIL: amdavis@posteo.net
+#+EMAIL: @reconmaster:matrix.org
+#+AUTHOR: Jonathan Zelaya
+#+EMAIL: @ocelomeh:matrix.org
 #+LANGUAGE: en
 #+SELECT_TAGS: export
 #+EXCLUDE_TAGS: noexport
@@ -20,6 +22,9 @@ them.
 Fry 先生
 #+END_QUOTE
 * Introduction
+Library sciences are an important study. Here we try to find an
+optimal knowledge categorization methods for digital information using
+open-source technologies.
+
 * Tools of the Trade
-- Okular
-- VideoDownload Helper
+Please see our [[id:a3c6b18c-70b3-4ef0-b5b4-a9b243393091][documentation]] folder for our current outline of s
