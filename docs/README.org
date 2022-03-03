@@ -15,19 +15,36 @@
 #+SELECT_TAGS: export
 #+EXCLUDE_TAGS: noexport
 #+CREATOR: Emacs 26.1 (Org mode 9.1.13)
-#+FILETAGS: 気, ki, doc
+#+FILETAGS: 気, ki, doc, library
 Objective: [[https://en.wikipedia.org/wiki/Documentation][documentation]]
 * Introduction
 Here we would like to document the variety of tools that allow
 information cataloging on the cutting edge of open-source software.
+* Standards
+** [[https://en.wikipedia.org/wiki/Alphabetical_order][Alphabetical order]]
+Been in in use since the 1st millennium BCE. Typically arranging work
+by the author's last name is the status quo.
+** Time
+This reference from [[https://fits.gsfc.nasa.gov/iso-time.html][NASA]] describes using the time notation. When
+naming files chronologically, we've found the ISO 8601 standard to be
+very useful in prefix convention (ex YYYYMMDD).
 * Tools
 ** General
 *** [[https://tellico-project.org/][Tellico]]
 Cataloging software
+*** [[https://www.zotero.org/][Zotero]]
+Zotero is an excellent reference manager. It is exteremely useful when
+combined with the Firefox plugin for keeping track of academic papers
+and books.
 ** Books
 *** [[https://calibre-ebook.com/][Calibre]]
-Excellent e-book managment software.
+Excellent e-book managment software. Not only does this software
+support different formats, it can serve as a central repository for
+checking books out on ebook readers or cell phones.
 *** [[https://okular.kde.org/][Okular]]
 Universal document viwer. Great for reading and collaborating via pdfs.
+** Photo
+*** [[https://www.digikam.org/][digiKam]]
 ** Video
 *** [[https://www.downloadhelper.net/][Video DownloadHelper]]
+Plugin tool for creating local copies of digital media.

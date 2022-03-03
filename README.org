@@ -27,4 +27,16 @@ optimal knowledge categorization methods for digital information using
 open-source technologies.
 
 * Tools of the Trade
-Please see our [[file:docs/README.org][documentation]] folder for our current outline of tools.
+Please see our [[file:docs/README.org][documentation]] folder for our current outline of tools
+used to catalog our digital and physical libraries.
+
+In addition to personal tools, examples of libraries both past and
+present are given in the [[file:resources/README.org][resources]] section.
+
+* Goal
+In sharing these personal tools for managing collections of knowledge,
+the global network of digital information can grow in a cataloged
+manner such that future work can build on the existing body of
+knowledge. We hope this helps contribute to an unrestricted digital
+network of information that allows researchers equal access to the
+same set of data.
